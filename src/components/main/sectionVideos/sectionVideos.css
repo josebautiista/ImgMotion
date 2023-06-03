@@ -1,0 +1,14 @@
+.contenedorCategorias{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    gap: 15px;
+    box-sizing: border-box;
+    padding: 30px 20px;
+    width: auto;
+}
+
+.contenedorCategorias::-webkit-scrollbar {
+    display: none;
+}

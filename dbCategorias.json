@@ -1,0 +1,52 @@
+[
+  {
+    "id": "4J6QbVEtWiArlUCmYdEP",
+    "color": "#8f5505",
+    "titulo": "Mascotas"
+  },
+  {
+    "id": "4cYvxNchChTpBE5LUEtM",
+    "titulo": "Educación",
+    "color": "#fcff33"
+  },
+  {
+    "id": "5vQzDg2yxGS8FTZimjM6",
+    "color": "#ea61aa",
+    "titulo": "Belleza"
+  },
+  {
+    "id": "DistcjRQ7HvRrgv4fLxF",
+    "titulo": "Historias personales",
+    "color": "#f254ed"
+  },
+  {
+    "id": "UeGrMSa7QhHSYAIuCp5I",
+    "color": "#ff0000",
+    "titulo": "Retos"
+  },
+  {
+    "id": "WriZrf7ueWtNQomEvSUi",
+    "color": "#05d5ff",
+    "titulo": "Viajes"
+  },
+  {
+    "id": "kBOLxRHg1EZYaGF5wJC4",
+    "titulo": "Tutoriales",
+    "color": "#adff33"
+  },
+  {
+    "id": "nO7hN2l5baxPtSUUubGd",
+    "titulo": "Moda",
+    "color": "#d3d704"
+  },
+  {
+    "id": "teEfALCogGJopbjIcm46",
+    "color": "#ff007b",
+    "titulo": "Baile"
+  },
+  {
+    "id": "vdQrAF7z3Fsw7D3iBdkF",
+    "color": "#ff9633",
+    "titulo": "Comedia"
+  }
+]

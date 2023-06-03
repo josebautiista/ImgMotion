@@ -1,0 +1,31 @@
+.boton{
+    background-color: #76e757;
+    border-radius: 10px;
+    font-weight: 700;
+    font-weight: 'Montserrat', 'sans-serif';
+    padding: 24px 32px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    margin: 32px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.boton:hover{
+    color: #4a9b7b;
+}
+
+.añadido{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.check-icon{
+    width: 20px;
+    height: 20px;
+}

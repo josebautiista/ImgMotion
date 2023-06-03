@@ -1,0 +1,109 @@
+.añadirCat{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.añadirCat h1{
+	font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+
+.editarCat{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 30px;
+    background: white;
+    border-radius: 30px;
+    box-shadow: 2px 2px 4px rgb(158, 158, 158);
+}
+
+
+.editando{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    background-color: #d0fcc3;
+    box-shadow: 2px 2px 4px rgb(223, 223, 223);
+    border: none;
+    padding: 20px 20px;
+    outline: none;
+    font-size: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.editarCat span{
+    display: flex;
+    gap: 40px;
+    margin-right: 10px;
+    width: 30%;
+}
+
+
+span:hover{
+    cursor: pointer;
+}
+
+.nombre-input{
+    border: none;
+    box-shadow: 2px 2px 4px rgb(223, 223, 223);
+    outline: none;
+    height: 30px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.editarCat button{
+    background: white;
+    box-shadow: 2px 2px 4px rgb(223, 223, 223);
+    border: none;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.editarCat button:hover{
+    background: #ecfce7;
+    cursor: pointer;
+}
+
+.color-circle {
+    width: 20%;
+    height: 20px;
+    border-radius: 10px;
+  }
+
+.editarCat p{
+    display: flex;
+    gap: 30px;
+    width: 90%;
+}
+
+.color-input{
+  width: 50px;
+  height: 30px;
+  border: none;
+  padding: 0;
+}
